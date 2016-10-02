@@ -4,10 +4,13 @@
 
 ## Getting Started
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+For spinning up on local
+1. Download latest from master
+2. Install NPM
+3. Install static server
+4. Install sass
+5. Start static server
+6. Start sass: sass --watch scss/agency.scss:css/agency.min.css
 
 ## Developing Using Source Files
 
